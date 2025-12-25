@@ -1,0 +1,5 @@
+{
+  "name": "Infinite A-Maze",
+  "description": "An endless, AI-themed maze runner. Survive generated labyrinths with increasing speed and darkness.",
+  "requestFramePermissions": []
+}
